@@ -1,0 +1,19 @@
+#nombre-jo{
+    color:darkred;
+    text-align: center;
+
+}
+.descripciones-jo {
+    text-align: justify;
+    background-color: lightpink;
+    border: 1px solid darkred;
+    padding: 20px ;
+    border-radius: 10px ;
+}
+
+#foto-principal{
+      display: block;
+      width: 300px;
+      height: auto;
+      margin: 0 auto;
+}
